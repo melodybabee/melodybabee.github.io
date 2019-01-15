@@ -1,15 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[测试文章]]></title>
-    <url>%2F2019%2F01%2F13%2Ftest%2F</url>
-    <content type="text"></content>
+    <title><![CDATA[INFO 6350笔记]]></title>
+    <url>%2F2019%2F01%2F14%2FINFO%206350%2F</url>
+    <content type="text"><![CDATA[INFO 63502019.1.7安卓 安卓是一种操作系统Linux Kernel + 中间件 (Libraries, Framework, Runtime) + 核心应用 内置的应用主要包括：Browser, Calculator, Camera, Clock, Contacts, Custom Locale, Email, Gallery, Messaging, Music, Phone, Search, Settings, Speech Recorder等，大多用java写成 特点 软件特点 框架集成 Application framework 实时启动，添加了即时 (JIT) 编译器，对 ART 进行代码分析，让它可以在应用运行时持续提升 Android 应用的性能 浏览器集成 优化图表算法 可选择的硬件集成 媒体支持 可以有大量的开发环境 硬件特点 蓝牙、集成、GPS 移动端应用基础 前端应用 不可见的时候不可用，只能在前端使用 比如游戏、地图等 后端应用 有限的交汇，使用的时候可以在后台不可见的前提下 比如电话、短信 大部分应用是应用在后端，需要提醒用户的时候会去提醒 零部件 比如home键 移动端应用的一些特点 频繁的交互、输入输出等 有限的内存、电量、屏幕、Random Access Memory随机存储 所有的应用同时进行，没有save键 Centralized app stores，对于安装的文件不可见 高反馈性 对于不同的设备保持登出的状态 安卓平台架构More info: More]]></content>
+      <categories>
+        <category>学习</category>
+      </categories>
+      <tags>
+        <tag>学习</tag>
+        <tag>Mobile Application</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[2019.1.7-1.13]]></title>
+    <url>%2F2019%2F01%2F13%2Ftest%20copy%2F</url>
+    <content type="text"><![CDATA[今天终于搭好了博客，]]></content>
+      <categories>
+        <category>周记</category>
+      </categories>
+      <tags>
+        <tag>随笔</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[一篇自言自语的摘抄/随想]]></title>
+    <url>%2F2019%2F01%2F13%2F%E9%9A%8F%E7%AC%94%2F</url>
+    <content type="text"><![CDATA[2019.1.15 0:40还是做难题爽，虽然理解起来比较困难、耗时，还需要加以反复琢磨和思考才能理解透彻，但是总能感受到“顿悟”“绝妙”的美感，后来再反复咂摸也有种畅快之意。这也就是所谓的”好题“吧。这可比单独题量上的累积带来的满足感立体多了。 2019.1.14 晚以目前的智识，看到的捷径都是陷阱，况且近道上sb还多。 对于学习这种即时反馈弱，见效慢的行为还是缺乏沉着的耐性，要沉住气、要知道自己到底想要的是什么。希望今后可以真正有进步。 2019.1.1当我与自己沉默相对，在那些不必与外人交谈的时刻，思考好像变成了不必特意设置的后台程序，它兀自运行，不向我呈现思维路径，却把结果敞敞亮亮的摆在我面前。冥冥之中指引我收余恨，免娇嗔，且自新，改性情，休恋逝水，早悟兰因。 2018.12.24 晚消耗你的关系就像泥潭，你竭尽全力抽身时，并不需要用回头张望来表现自己有情有义。 向前走就是了。 2018.9.23比起“我只能爱你，别无选择”，我更喜欢“我可以不爱任何人，也可以爱别人，但爱你这件事让我更快乐。”我希望自己是谜底，是答案，甚至是经过比较之后的最好的选择。 2018.8.13如遇一日闻君有两意，存些体面，及时止损。乾坤之大，莫为情缚。]]></content>
       <categories>
         <category>Testing</category>
       </categories>
       <tags>
-        <tag>Testing</tag>
-        <tag>Another Tag</tag>
+        <tag>一字一句，万水千山</tag>
       </tags>
   </entry>
   <entry>
